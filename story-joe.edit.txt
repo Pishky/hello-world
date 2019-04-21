@@ -1,1 +1,3 @@
 First line in story-joe.edit.txt
+Editing this file in the first branch.
+Should not appear in the master
